@@ -4,6 +4,13 @@ This model is a simple chat based AI model, which evaluates
 response from 3 different models on every user prompt and 
 selects the best output of the three. 
 
+
+You can access the deployed project here:
+[Self_Consistency_AI](https://self-consistency-ai-model.vercel.app/)
+
+The project uses Gemini, Mistral and OpenRouter AI models for AI API.
+To run the project in your system, you can add the keys in your .env file.
+
 ## Run these commands after cloning the repo.
 
 ```bash
